@@ -4,7 +4,6 @@
 <h1 id = "header" align= "center">Hi 👋, I'm Musobek Kudratov</h1>
 <h3 id = "header" align= "center">Flutter Developer and Java backend developer
 </h3>
-![Snake animation](https://github.com/musobek253/musobek253/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musobek253&label=Profile%20views&color=0e75b6&style=flat" alt="musobek253" /> </p>
